@@ -1,0 +1,23 @@
+Credits to the Images used (Or click on the images in the website)
+============================================================================================
+index.html:
+error.png - made by me
+clock.png (editted) - https://pixabay.com/vectors/flat-design-symbol-icon-www-2442462/
+profile.png (editted)- https://pixabay.com/vectors/blank-profile-picture-mystery-man-973460/
+headset.png (editted) - http://clipart-library.com/clip-art/headphones-clipart-transparent-18.htm
+
+about.html:
+protection.jpg - https://pixabay.com/photos/security-protection-anti-virus-265130/
+warning.png - https://pixabay.com/vectors/warning-alert-detected-malware-2168379/
+
+company.html:
+donate.png - https://pixabay.com/vectors/donations-donation-support-help-2773962/
+
+support.html:
+link.png - made by me
+email.png (editted) - https://favpng.com/png_view/envelope-mail-paper-envelope-icon-design-png/htRqdpeY
+shopping.png (editted) - https://pixabay.com/illustrations/shopping-cart-expense-e-commerce-1901584/
+
+download.html:
+cleanman1 - made by me
+cleanman 2 - made by me
